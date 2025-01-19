@@ -1,6 +1,6 @@
 # Climaclassification
 
-Este repositório contém os arquivos relacionados à pesquisa realizada por **Júlia Marques Boaventura** e **Vinícius Meireles Pereira Santos** para a obtenção de créditos na disciplina **SIN 393 - Introdução à Visão Computacional**, sob orientação do **Prof. Dr. João Fernando Mari**.  
+Este repositório contém os arquivos relacionados à pesquisa realizada por **Júlia Marques Boaventura** (8105) e **Vinícius Meireles Pereira Santos** (8112) para a obtenção de créditos na disciplina **SIN 393 - Introdução à Visão Computacional**, sob orientação do **Prof. Dr. João Fernando Mari**.  
 
 O objetivo do projeto foi **classificar imagens climáticas** utilizando técnicas de visão computacional e aprendizado profundo.  
 
