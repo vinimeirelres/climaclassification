@@ -7,9 +7,8 @@ O objetivo do projeto foi **classificar imagens climáticas** utilizando técnic
 ## Conteúdo do Repositório
 - **Dataset**: Utilizamos o dataset disponível no Kaggle, que pode ser acessado [aqui](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset).
 - **Códigos**: Incluem os testes realizados em diferentes épocas de treinamento.
-- **Checkpoints**: Os arquivos dos modelos com os melhores desempenhos em cada época.
 - **Relatório**: Documento explicando o projeto e os resultados obtidos.
-- **Vídeo de Apresentação**: Uma breve explicação dos principais resultados.
+- **Vídeo de Apresentação**: Uma breve explicação dos principais resultados, pode ser acessado [aqui]().
 
 ## Requisitos
 Para executar os códigos, é necessário instalar as seguintes bibliotecas no ambiente de execução (ou carregá-las em caso de estar executando no Google Colab):
