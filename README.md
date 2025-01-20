@@ -8,7 +8,7 @@ O objetivo do projeto foi **classificar imagens climáticas** utilizando técnic
 - **Dataset**: Utilizamos o dataset disponível no Kaggle, que pode ser acessado [aqui](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset).
 - **Códigos**: Incluem os testes realizados em diferentes épocas de treinamento.
 - **Artigo**: Documento explicando o projeto e os resultados obtidos, que pode ser acessado [aqui](https://github.com/vinimeirelres/climaclassification/blob/d2769ad2194bffcb27ff3676a02ef6bf02f79821/Artigo/Classifica%C3%A7%C3%A3o_de_Condi%C3%A7%C3%B5es_Clim%C3%A1ticas_Usando_Redes_Neurais_Convolucionais.pdf)
-- **Vídeo de Apresentação**: Uma breve explicação dos principais resultados, pode ser acessado [aqui]().
+- **Vídeo de Apresentação**: Uma breve explicação dos principais resultados, pode ser acessado [aqui](https://youtu.be/5lR9iDkAUJw).
 
 ## Requisitos
 Para executar os códigos, é necessário instalar as seguintes bibliotecas no ambiente de execução (ou carregá-las em caso de estar executando no Google Colab):
