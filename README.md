@@ -23,6 +23,7 @@ Para executar os códigos, é necessário instalar as seguintes bibliotecas no a
 - `tqdm`  
 - `torch` (PyTorch (com CUDA))  
 - `seaborn`
+Para instalar todas as dependências de uma vez, execute `pip install -r requirements.txt`.
 
 ## Instruções para Execução
 1. **Baixar o Dataset**  
