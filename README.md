@@ -1,6 +1,6 @@
 # Climaclassification
 
-Projeto desenvolvido por **Júlia Marques Boaventura (8105)** e **Vinícius Meireles Pereira Santos (8112)** para a disciplina **SIN 393 - Introdução à Visão Computacional**, sob orientação do **Prof. Dr. João Fernando Mari** na **Universidade Federal de Viçosa**.
+Projeto desenvolvido por **Júlia Marques Boaventura** e **Vinícius Meireles Pereira Santos** para a disciplina **SIN 393 - Introdução à Visão Computacional**, sob orientação do **Prof. Dr. João Fernando Mari** na **Universidade Federal de Viçosa**.
 
 O objetivo do trabalho é **classificar condições climáticas em imagens** utilizando **redes neurais convolucionais (CNNs)** e técnicas de **visão computacional**. O projeto inclui experimentos com diferentes configurações e épocas de treinamento.
 
